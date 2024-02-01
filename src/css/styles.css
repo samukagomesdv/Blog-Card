@@ -55,6 +55,10 @@ body{
     font-weight: 800;
     padding: 0 18px;
 }
+.conteudo .titulo h1:hover{
+    color: hsl(47, 88%, 63%);
+    transition: 0.5s;
+}
 .conteudo .titulo p{
     display: flex;
     justify-content: right;
